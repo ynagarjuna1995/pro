@@ -122,7 +122,7 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		'Codesleeve\AssetPipeline\AssetPipelineServiceProvider',
-		'Way\Generators\GeneratorsServiceProvider',
+		
 
 	),
 

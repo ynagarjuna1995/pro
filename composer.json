@@ -7,9 +7,7 @@
 		"laravel/framework": "4.2.*",
 		"codesleeve/asset-pipeline": "dev-master"
 	},
-	"require-dev": {
-    "way/generators": "2.*"
-},
+
 	"autoload": {
 		"classmap": [
 			"app/commands",
