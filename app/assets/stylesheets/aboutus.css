@@ -1,0 +1,12 @@
+.cover{
+	height:530px;
+}
+
+#aboutuscover{
+	height: 540px;
+	position: absolute;
+	top: 0;background:url('aboutus.jpg') 0% 85%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

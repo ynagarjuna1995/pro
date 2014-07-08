@@ -1,0 +1,8 @@
+#advertisecover{	
+	height: 540px;
+	position: absolute;
+	top: 0;background:url('advertise.jpg') 0% 80%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}	

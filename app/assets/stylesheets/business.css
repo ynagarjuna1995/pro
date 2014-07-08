@@ -1,0 +1,7 @@
+#coverbusiness{
+	height: 540px;
+	position: absolute;
+	top: 0;background:url('photohappy.jpg');
+	width: 100%;
+	background-repeat: no-repeat;
+}

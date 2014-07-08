@@ -1,0 +1,8 @@
+#privacycover{	
+	height: 540px;
+	position: absolute;
+	top: 0;background:url('privacy.jpg') 0% 50%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

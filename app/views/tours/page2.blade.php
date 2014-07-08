@@ -1,0 +1,1 @@
+C:\Users\Nagarjuna\LaravelProjects\pro\app/views/tours/page2.blade.php

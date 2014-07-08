@@ -1,0 +1,7 @@
+#partnerscover{
+	height: 540px;
+	position: absolute;
+	top: 0;background:url('partners.jpg') top;
+	width: 100%;
+	background-size: cover;
+}
