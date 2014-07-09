@@ -5,19 +5,9 @@
 	<div class="career-cover">
 		<div id="careerscover"></div>
 	
-	 <p id="join-title1">Clickntoor is an initiative to organize hastle free trips to places near you</p>
 
-<div id="join-about-container">
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-03.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">People that more like friends that just collegues</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-06.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">We care for clent’s, user’s and fellow tooru’s</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-05.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Discounted tours Result matter than how much vacation we take</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-08.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Clear growth path where you define where you want to get to</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-01.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Work from any place Result matter more than where we produce them</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-04.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">No Hierarchy-All are equal Position doesn’t matter every does real work and get hands dirty</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-07.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Get sh*t done mantra Result matters more than hours we work</span></div>
-<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-02.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Equity for people we want to keep for ever</span></div>
-</div>
-</div>
+
+
 
 <div id="culture-container">
 	<h3>Our goal is to cultivate a <b>culture</b> that helps us achieve our ambitions</h3>
@@ -62,6 +52,19 @@ and with themselves</p></div>
 our competitors”</p>
 </div>
 
+</div>
+</div>
+	 <p id="join-title1">Clickntoor is an initiative to organize hastle free trips to places near you</p>
+
+<div id="join-about-container">
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-03.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">People that more like friends that just collegues</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-06.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">We care for clent’s, user’s and fellow tooru’s</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-05.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Discounted tours Result matter than how much vacation we take</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-08.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Clear growth path where you define where you want to get to</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-01.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Work from any place Result matter more than where we produce them</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-04.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">No Hierarchy-All are equal Position doesn’t matter every does real work and get hands dirty</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-07.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Get sh*t done mantra Result matters more than hours we work</span></div>
+<div class="join-about-box">{{HTML::image('assets/careers/Carrers_joinus_all_pics-02.png','alt_eqvialent_in_html',array('class'=>'join-about-img'))}}<span class="join-about-img-caption">Equity for people we want to keep for ever</span></div>
 </div>
 </div>
 
