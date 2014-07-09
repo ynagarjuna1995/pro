@@ -5,10 +5,6 @@
 	<div class="career-cover">
 		<div id="careerscover"></div>
 	
-
-
-
-
 <div id="culture-container">
 	<h3>Our goal is to cultivate a <b>culture</b> that helps us achieve our ambitions</h3>
 <h5>Here are few things that we ....</h5>
@@ -72,14 +68,14 @@ our competitors”</p>
 <div id="team-container">
 	<h6>Our Team</h6>
 	<div id="team">
-		<div id="per1" class="per">{{HTML::image('assets/careers/team/jayasoo.jpg','jayasooryan',array('class'=>'img-circle','id'=>'per-img1'))}}<h5>Jayasooryan K V</h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per2" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img2'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per3" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img3'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per4" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img4'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per5" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img5'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per6" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img6'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per7" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img7'))}}<h5>Person </h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
-		<div id="per8" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img8'))}}<h5>Person</h5><p>Person  is a..... ........ ......... ............ ...............</p></div>
+		<div id="per1" class="per">{{HTML::image('assets/careers/team/','Founder-clickntoor',array('class'=>'img-circle','id'=>'per-img1'))}}<h5>Nagarjuna Yelisetty</h5><p></p></div>
+		<div id="per2" class="per">{{HTML::image('assets/careers/team/face.jpg','nitin',array('class'=>'img-circle','id'=>'per-img2'))}}<h5>Nithin </h5><p></p></div>
+		<div id="per3" class="per">{{HTML::image('assets/careers/team/harshith.jpg','harshith',array('class'=>'img-circle','id'=>'per-img3'))}}<h5>Harshith </h5><p></p></div>
+		<div id="per4" class="per">{{HTML::image('assets/careers/team/face.jpg','sneha',array('class'=>'img-circle','id'=>'per-img4'))}}<h5>SnehaSri </h5><p></p></div>
+		<div id="per5" class="per">{{HTML::image('assets/careers/team/face.jpg','tejaswi',array('class'=>'img-circle','id'=>'per-img5'))}}<h5>Tejaswi </h5><p></p></div>
+		<div id="per6" class="per">{{HTML::image('assets/careers/team/face.jpg','phani',array('class'=>'img-circle','id'=>'per-img6'))}}<h5>Phani </h5><p></p></div>
+		<div id="per7" class="per">{{HTML::image('assets/careers/team/jayasoo.jpg','jayasoo',array('class'=>'img-circle','id'=>'per-img7'))}}<h5>Jayasooryan K V </h5><p></p></div>
+		<div id="per8" class="per">{{HTML::image('assets/careers/team/face.jpg','person',array('class'=>'img-circle','id'=>'per-img8'))}}<h5>Be a part of us !!</h5><p></p></div>
 	
     </div>
 </div>    
