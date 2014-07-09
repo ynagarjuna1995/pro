@@ -1,10 +1,197 @@
+.career-cover{
+	height:2700px;
+	background-color: white;
+}
+
+
+
 #careerscover{
 	height: 540px;
 	position: absolute;
-	top: 0;background:url('partners.jpg') center;
+	top: 0;background:url('joinus.jpg') center;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	
 
 }
+
+
+
+
+
+body {background-color: white;}
+#join-about-container {position: absolute;top: 635px;width: 1200px;left: 0;right: 0;margin: auto;height: 750px;}
+.join-about-box {width:300px; height: 300px;float: left;position: relative;margin-top: 10px;}
+.join-about-img{width:160px; height: 150px;position: absolute;left: 0;right: 0;margin: auto;}
+.join-about-img-caption{position: absolute;top: 180px;left: 0;right: 0;margin: auto;text-align: center;font-size: 1.3em;width: 250px;font-family: 'open sans', sans-serif;}
+.click-img {height: 500px;}
+#page2-container{width: 100%;height: 600px;position: absolute;top: 1850px; background-color: white;}
+#page2 {position: absolute;left: 0;right: 0;margin: auto;width: 600px;height: 550px;top:50px;bottom: 0}
+#page2 img {width: 100px;height: 100px;}
+#join-title1 {position: absolute;top: 570px;left: 0;right: 0;margin: auto;width: 1050px;text-align: center;font-size: 2em;font-weight: bold;font-family: "Candara"; color: #4E4E4E;}
+
+@media screen and (min-width: 1200px) and (max-width: 5020px)
+{
+#team-container {position: absolute;top: 1950px;height: 750px;width: 100%;background-color: white;}
+#team {width: 1200px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 200px;font-size: 3em;font-family: 'open sans', sans-serif;}
+#team .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#team .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+.per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+.per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+}
+
+@media screen and (min-width: 800px) and (max-width: 1199px)
+{
+#team-container {position: absolute;top: 2750px;height: 1300px;width: 100%;background-color: white;}
+#team {width: 650px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 200px;font-size: 4em;font-family: 'open sans', sans-serif;}
+#team .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#team .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+.per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+.per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px)
+{
+#team-container {position: absolute;top: 2780px;height: 1300px;width: 100%;background-color: white;}
+#team {width: 600px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 200px;font-size: 4em;font-family: 'open sans', sans-serif;}
+#team .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#team .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+.per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+.per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 599px)
+{
+#team-container {position: absolute;top: 4550px;height: 2350px;width: 100%;background-color: white;}
+#team {width: 340px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 200px;font-size: 4em;font-family: 'open sans', sans-serif;}
+#team .per {float: left;width: 280px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#team .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+.per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+.per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;}
+
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 5020px)
+{
+#culture-container{position: absolute; width: 100%;background-color: #F0F0F0;height: 600px;top: 1350px;}
+#culture{position: absolute;top: 100px;width: 1100px;left: 0;right: 0;margin: auto;background-color: #F0F0F0;height: 500px;}
+#culture div {float: left;width: 366.665px;height: 350px;margin-top: 50px;}
+#colmn2-img {width: 350px;}
+#culture h4 {font-family: 'open sans', sans-serif;font-size: 1.3em;margin-bottom: 00px;font-weight: bolder;}
+#culture div p {font-family: 'open sans', sans-serif;font-size: 1.1em;margin-bottom: 20px;margin-top: 10px;line-height: 1em;}
+#bold {font-weight: bold;}
+#para1 p {margin: 5px!important;}
+#para1 {height: 150px!important;margin-top: 5px!important;text-indent: -30px;position: relative;left: 30px;}
+#colmn1 p{margin-bottom: 45px!important;}
+h3 {position: absolute;top: 30px;margin: 0;left: 0;right: 0;margin: auto;width:760px;font-family: 'open sans', sans-serif;}
+h5 {position: absolute;top: 60px;margin: 0;left: 0;right: 0;margin: auto;width:300px;font-size: 1.2em;font-family: 'open sans', sans-serif;}
+}
+
+
+
+@media screen and (min-width: 800px) and (max-width: 1199px)
+{
+#culture-container{position: absolute;top: 2050px !important; width: 100%;background-color:#F0F0F0;height: 750px;}
+#culture{position: absolute;top: 100px;width: 750px;left: 0;right: 0;margin: auto;background-color: #F0F0F0;height: 600px;}
+#culture div {float: left;width: 250px;height: 450px;margin-top: 75px;}
+#colmn2-img {width: 250px;margin-top: 50px;}
+#culture h4 {font-family: 'open sans', sans-serif;font-size: 1.3em;margin-bottom: 00px;}
+#culture div p {font-family: 'open sans', sans-serif;font-size: 1.1em;margin-bottom: 20px;margin-top: 10px;line-height: 1em;}
+#colmn1 p{margin-bottom: 30px !important;}
+#bold {font-weight: bold;}
+#para1 p {margin: 0!important;}
+#para1 {height: 155px!important;margin-top: 5px!important;text-indent: -20px;position: relative;left: 20px;}
+h3 {position: absolute;top: 30px;margin: 0;left: 0;right: 0;margin: auto;width:750px;font-family: 'open sans', sans-serif;}
+h5 {position: absolute;top: 60px;margin: 0;left: 0;right: 0;margin: auto;width:230px;font-size: 1.2em;font-family: 'open sans', sans-serif;}
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px)
+{
+#culture-container{position: absolute;top: 2000px !important; width: 100%;background-color: #F0F0F0;height: 780px;}
+#culture{position: absolute;top: 110px;width: 550px;left: 0;right: 0;margin: auto;background-color: #F0F0F0;height: 650px;}
+#culture div {float: left;width: 260px;height: 650px;margin-top: 75px;}
+#colmn2-img {width: 190px;margin-top: 150px;height: 0!important}
+#culture h4 {font-family: 'open sans', sans-serif;font-size: 1.3em;margin-bottom: 00px;}
+#culture div p {font-family: 'open sans', sans-serif;font-size: 1.1em;margin-bottom: 20px;margin-top: 10px;line-height: 1em;}
+#colmn1 p{margin-bottom: 50px !important;}
+#colmn2 {height: 0!important;margin: 0!important}
+#bold {font-weight: bold;}
+#colmn1{margin-right: 30px!important}
+#para1 p {margin: 0!important;}
+#culture #para2{margin-bottom: 30px !important;}
+#culture #para3{margin-bottom: 30px !important;}
+#culture #para3{margin-bottom: 30px !important;}
+#para1 {height: 160px!important;margin-top: 5px!important;text-indent: -20px;position: relative;left: 20px;}
+h3 {position: absolute;top: 30px;margin: 0;left: 0;right: 0;margin: auto;width:550px;font-size: 1.5em;text-align: center;font-family: 'open sans', sans-serif;}
+h5 {position: absolute;top: 90px;margin: 0;left: 0;right: 0;margin: auto;width:230px;font-size: 1.2em;font-family: 'open sans', sans-serif;}
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 599px)
+{
+	#culture-container{position: absolute;top: 3250px !important; width: 100%;background-color: #F0F0F0;height: 1300px;}
+#culture{position: absolute;top: 130px;width: 280px;left: 0;right: 0;margin: auto;background-color: #F0F0F0;height: 1100px;}
+#culture div {float: none;width: 280px;height: 280px;margin-top: 75px;}
+#colmn2-img {width: 200px;margin-top: 150px;visibility: hidden;}
+#culture h4 {font-family: 'open sans', sans-serif;font-size: 1.3em;margin-bottom: 00px;}
+#culture div p {font-family: 'open sans', sans-serif;font-size: 1.1em;margin-bottom: 30px;margin-top: 10px;}
+#colmn1 p{margin-bottom: 40px !important;}
+#colmn1 {margin-top: 10px!important}
+#colmn2 {height: 0!important;}
+#bold {font-weight: bold;}
+#para1 p {margin: 0!important;}
+#para1 {height: 240px!important;text-indent: -20px;position: relative;left: 20px;margin-top: 10px !important;}
+#colmn3 p{margin-bottom: 10px !important;}
+#colmn3{height: 520px!important;margin-top: 150px!important;}
+#h4para {margin-top: 20px!important;}
+#culture #para2{margin-bottom: 30px !important;}
+#culture #para3{margin-bottom: 30px !important;}
+#culture #para3{margin-bottom: 30px !important;}
+h3 {position: absolute;top: 30px;margin: 0;left: 0;right: 0;margin: auto;width:300px;font-size: 1.3em;text-align: center;font-family: 'open sans', sans-serif;}
+h5 {position: absolute;top: 100px;margin: 0;left: 0;right: 0;margin: auto;width:230px;font-size: 1.2em;font-family: 'open sans', sans-serif;}
+}
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px)
+{   
+	#join-title1 {width: 800px;}
+	.join-about-box{height: 350px;}
+	#join-about-container {width: 600px;height: 1200px;}
+	#page2-container {top: 2600px;height: 600px;}
+	#page2 {height: 550px;}
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px)
+{   
+    #join-title1 {width: 550px;top: 520px;}
+    .join-about-box{height: 350px;}
+    #join-about-container {width: 600px!important;height: 1350px;}
+    #page2-container{top: 2700px;}
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 599px)
+{   
+
+    #join-title1 {width: 300px;top: 320px;}
+    .join-about-box{height: 290px;}
+    .join-about-box {width: 300px;margin-bottom: 10px;}
+    #join-about-container {width: 300px;height: 2500px;top: 450px;}
+    #page2-container {top: 4250px;}
+	.join-about-img-caption {top:170px;}
+	#culture-container{position: absolute; top: 2900px!important;}
+	#team-container{position: absolute;top: 4200px!important;}
+
+}		
+

@@ -1,7 +1,111 @@
+#business-cover{
+	height: 3000px;
+	background-color: white;
+}
+
 #coverbusiness{
-	height: 540px;
+	height: 500px;
 	position: absolute;
 	top: 0;background:url('business.jpg');
 	width: 100%;
 	background-repeat: no-repeat;
 }
+
+
+body {background-color: white;}
+
+#business-title1 {position: absolute;top: 550px;left: 0;right: 0;margin: auto;width: 1050px;text-align: center;font-size: 2em;font-weight: bold;font-family: 'open sans', sans-serif; color: #4E4E4E;}
+
+#business-about-container {position: absolute;top: 635px;width: 1200px;left: 0;right: 0;margin: auto;height: 750px;margin-top: 20px;}
+.business-about {width:300px; height: 300px;float: left;position: relative;}
+.business-about-img{width:180px; height: 170px;position: absolute;left: 0;right: 0;margin: auto;}
+.business-about-img-caption{position: absolute;top: 180px;left: 0;right: 0;margin: auto;text-align: center;font-size: 1.2em;width: 270px;font-family: 'open sans', sans-serif;}
+.click-img {height: 500px;}
+#page2-container{width: 100%;height: 600px;position: absolute;top: 1850px; background-color: #F0F0F0;}
+#page2 {position: absolute;left: 0;right: 0;margin: auto;width: 600px;height: 550px;top:50px;bottom: 0}
+#page2 img {width: 100px;height: 100px;}
+
+
+@media screen and (min-width: 1200px) and (max-width: 5020px)
+{
+#business-team-container {position: absolute;top: 1300px;height: 750px;width: 100%;background-color: #F9F9F9;}
+#business-team {width: 1200px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#business-team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 250px;font-size: 3em;font-family: 'open sans', sans-serif;}
+#business-team  .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#business-team  .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+#business-team  .per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+#business-team  .per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+}
+
+@media screen and (min-width: 800px) and (max-width: 1199px)
+{
+#business-team-container {position: absolute;top: 2050px;height: 1300px;width: 100%;background-color: #F0F0F0;}
+#business-team  {width: 650px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#business-team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 250px;font-size: 3em;font-family: 'open sans', sans-serif;}
+#business-team  .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#business-team  .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+#business-team  .per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+#business-team  .per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px)
+{
+#business-team-container {position: absolute;top: 2050px;height: 1300px;width: 100%;background-color: #F0F0F0;}
+#business-team  {width: 600px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#business-team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 250px;font-size: 3em;font-family: 'open sans', sans-serif;}
+#business-team  .per {float: left;width: 250px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#business-team  .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+#business-team  .per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+#business-team  .per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;font-family: 'open sans', sans-serif;}
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 599px)
+{
+#business-team-container {position: absolute;top: 2800px;height: 2350px;width: 100%;background-color: #F0F0F0;}
+#business-team  {width: 340px;position: absolute;top: 50px;left: 0;right: 0;margin: auto;}
+#business-team-container h6 {position: absolute;top: 20px;left: 0;right: 0;margin: auto;width: 250px;font-size: 3em;font-family: 'open sans', sans-serif;}
+#business-team  .per {float: left;width: 280px;height: 250px;position: relative;margin: 25px;margin-bottom: 0;}
+#business-team  .per img {width: 100px;height: 100px;position: absolute;left: 0;right: 0;margin: auto;top:30px;}
+#business-team  .per h5 {position: absolute;top: 140px;left: 0;right: 0;margin: auto;width: 150px;text-align: center;font-size: 1.4em;}
+#business-team  .per p {position: absolute;top: 200px;left: 0;right: 0;margin: auto;width: 240px;text-align: center;}
+
+}
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px)
+{   
+	#business-title1 {width: 800px;}
+	.business-about{height: 350px;}
+	#business-about-container {width: 600px;height: 1200px;}
+	#page2-container {top: 2600px;height: 600px;}
+	#page2 {height: 550px;}
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px)
+{   
+    #business-title1 {width: 550px;top: 520px;}
+    .business-about{height: 350px;}
+    #business-about-container{width: 600px;height: 1350px;}
+    #page2-container{top: 2700px;}
+    #page2 {}
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 599px)
+{   
+	#cover {height: 300px;}
+    #business-title1 {width: 300px;top: 320px;}
+    .business-about{height: 300px;}
+    .business-about {width: 300px;margin-bottom: 10px;}
+    #business-about-container {width: 300px;height: 1350px;top: 450px;}
+    #page2-container {top: 4250px;}
+    #business-about2 {height: 260px;}
+
+}		
+
+
